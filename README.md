@@ -1,2 +1,3 @@
 # MySirg-Saurabh-Shukla-Sir-C-langauge-CPP-Language-DSA-Course-Assignments-with-Solution
-Solved assignments &amp; solutions from Saurabh Shukla Sir's Bootcamp (C, C++, DSA)
+
+Ayushi’s MySirg-Saurabh Shukla Sir Bootcamp Assignments & Solutions  Here, I upload all assignments and their solutions from Saurabh Shukla Sir’s (MySirg) Bootcamp courses, including C Language, C++ Language, Data Structures and Algorithms, Internet of Things (IoT), and many more programming subjects.  Saurabh Shukla Sir’s courses cover more than 800+ assignment questions with 13+ practical projects based on C, C++, DSA, and IoT. You’ll find each question organized with clear code solutions to help peers, students, and learners prepare for exams, interviews, and strengthen their programming fundamentals.
